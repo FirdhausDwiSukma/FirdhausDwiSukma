@@ -8,6 +8,11 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%2335495e.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
+### Social Media
+[![GitHub](icons/github.png)](https://github.com/FirdhausDwiSukma)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/firdhaus-dwi-sukma-03b332207/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/firdhausdhaus/)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -32,7 +37,6 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 </div>
 
 <br />
-<br />
 
 ### Anime warning !!!
 <details>
@@ -44,6 +48,7 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
         <li>* [Tio Klarus](https://anilist.co/character/132852/Tio-Klarus)</li>
     </ul>
 </details>
+
 <!--
 **FirdhausDwiSukma/FirdhausDwiSukma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
