@@ -10,7 +10,7 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 
 ### Social Media
 [![GitHub](icons/github.png)](https://github.com/FirdhausDwiSukma)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/firdhaus-dwi-sukma-03b332207/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/firdhaus-dwi-sukma/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/firdhausdhaus/)
 
 ### Languages and Tools:
