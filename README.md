@@ -15,6 +15,7 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
     height="135rem"
     src="https://github-readme-stats.vercel.app/api?username=FirdhausDwiSukma&show_icons=true&layout=compact"
   />
+    <br />
   <img
     height="145rem"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdhausDwiSukma&layout=compact"
