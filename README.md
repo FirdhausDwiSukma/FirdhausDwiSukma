@@ -12,6 +12,7 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 
 <p align="left">
 <a href="https://linkedin.com/in/firdhausdwisukma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdhausdhaus" height="30" width="40" /></a>
+<a href="https://dribbble.com/usdhaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="firdhausdhaus" height="30" width="40" /></a>
 <a href="https://instagram.com/firdhausdhaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firdhausdhaus" height="30" width="40" /></a>
 
 ### Languages and Tools:
