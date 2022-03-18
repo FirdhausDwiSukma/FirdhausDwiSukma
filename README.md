@@ -9,7 +9,7 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 ![Figma](https://img.shields.io/badge/figma-%2335495e.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ### Social Media
-[![GitHub](icons/github.png)](https://github.com/FirdhausDwiSukma)
+[![GitHub]<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/FirdhausDwiSukma)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/firdhaus-dwi-sukma/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/firdhausdhaus/)
 
