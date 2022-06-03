@@ -50,8 +50,8 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 <summary>:girl: List Favorites Characters</summary>  
 <!-- favorites_characters starts -->
     <ul>
-        <li>* [Rias Gremory](https://anilist.co/character/50389/Rias-Gremory)</li>
-        <li>* [Sayu Ogiwara](https://anilist.co/character/127925)</li>
+        <li>* [Rias Gremory](https://anilist.co/character/50389/Rias-Gremory *</li>
+        <li>* [Sayu Ogiwara] *(https://anilist.co/character/127925)</li>
         <li>* [Tio Klarus](https://anilist.co/character/132852/Tio-Klarus)</li>
     </ul>
 </details>
