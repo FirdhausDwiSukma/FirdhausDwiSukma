@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
+I'm Firdhaus Dwi Sukma (21 y.o), you can call me dhaus
 
 <!-- :page_with_curl: I'm currently learning:
 <br><br>
@@ -45,16 +45,16 @@ I'm Firdhaus Dwi Sukma (20 y.o), you can call me dhaus :sunglasses:
 
 <br />
 
-### Anime warning !!!
+<!-- ### Anime warning !!!
 <details>
 <summary>:girl: List Favorites Characters</summary>  
 <!-- favorites_characters starts -->
-    <ul>
+<!--     <ul>
         <li>[Rias Gremory](https://anilist.co/character/50389/Rias-Gremory)</li>
         <li>[Sayu Ogiwara](https://anilist.co/character/127925)</li>
         <li>[Tio Klarus](https://anilist.co/character/132852/Tio-Klarus)</li>
     </ul>
-</details>
+</details> --> 
 
 <!--
 **FirdhausDwiSukma/FirdhausDwiSukma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
