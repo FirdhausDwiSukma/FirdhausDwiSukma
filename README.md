@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Firdhaus Dwi Sukma (21 y.o), you can call me dhaus.
+I'm Firdhaus Dwi Sukma (24 y.o), you can call me dhaus.
 
 
 ## 🌐 Socials:
